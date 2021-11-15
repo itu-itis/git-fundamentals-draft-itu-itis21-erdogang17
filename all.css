@@ -10,3 +10,7 @@ em {
     background-color: lightgrey;
     font-weight: bold;
 }
+
+ul.b {
+    list-style-type: square;
+}
